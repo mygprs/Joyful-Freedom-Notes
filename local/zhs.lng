@@ -14,6 +14,17 @@
   "Help_Updates": "帮助与更新",
   "Check_Updates": "检查更新",
   "About": "关于",
+
+  "_comment_backup": "=== 备份相关 ===",
+  "Database_Backup_Success": "数据库备份成功",
+  "Backup_Success": "备份成功", 
+  "Backup_Success_Message": "数据库已备份至：\n{}",
+  "Backup_Failed": "备份失败",
+  "Database_Backup_Failed": "数据库备份失败：{}",
+
+  "_comment_check_updates": "=== 检查更新 ===", 
+  "Check_Updates_Message": "即将开启浏览器检查更新。\n\n是否要继续？", 
+  "Cannot_Open_Browser": "无法开启浏览器：{}",
   
   "_comment_interface": "=== 界面元素 ===",
   "Search": "搜索:",

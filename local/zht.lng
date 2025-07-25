@@ -14,6 +14,17 @@
   "Help_Updates": "說明與更新",
   "Check_Updates": "檢查更新",
   "About": "關於",
+
+  "_comment_backup": "=== 備份相關 ===",
+  "Database_Backup_Success": "數據庫備份成功",
+  "Backup_Success": "備份成功",
+  "Backup_Success_Message": "數據庫已備份至：\n{}",
+  "Backup_Failed": "備份失敗",
+  "Database_Backup_Failed": "數據庫備份失敗：{}",
+
+  "_comment_check_updates": "=== 檢查更新 ===",
+  "Check_Updates_Message": "即將開啟瀏覽器檢查更新。\n\n是否要繼續？",
+  "Cannot_Open_Browser": "無法開啟瀏覽器：{}",
   
   "_comment_interface": "=== 界面元素 ===",
   "Search": "搜尋:",

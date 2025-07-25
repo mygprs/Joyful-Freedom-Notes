@@ -14,6 +14,17 @@
   "Help_Updates": "Help & Updates",
   "Check_Updates": "Check Updates",
   "About": "About",
+
+  "_comment_backup": "=== Backup Related ===",
+  "Database_Backup_Success": "Database backup successful",
+  "Backup_Success": "Backup Success",
+  "Backup_Success_Message": "Database has been backed up to:\n{}",
+  "Backup_Failed": "Backup Failed",
+  "Database_Backup_Failed": "Database backup failed: {}",
+
+  "_comment_check_updates": "=== Check Updates ===",
+  "Check_Updates_Message": "About to open browser to check for updates.\n\nDo you want to continue?",
+  "Cannot_Open_Browser": "Cannot open browser: {}",
   
   "_comment_interface": "=== Interface Elements ===",
   "Search": "Search:",
@@ -148,6 +159,8 @@
   "Unknown_File": "Unknown File",
   "Unknown": "Unknown",
   "No_Tags": "No tags",
+  
+
   
   "_comment_menu_recreation": "=== Menu Recreation ===",
   "Menu_Recreated": "Menu has been recreated!\nPlease check if there are 'File', 'Backup Management', 'Help & Updates' menus at the top of the window.",
