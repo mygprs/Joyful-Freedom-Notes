@@ -35,6 +35,11 @@
 本程式為自由軟體，歡迎自由下載、安裝與分享。  
 如有建議或問題歡迎於 GitHub 提出。
 
+## 支持我們
+
+[![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/~1890015/donate)
+
+
 ---
 
 # Joyful Freedom Notes
@@ -73,6 +78,11 @@ Nothing is uploaded to the cloud or any server—your notes stay private.
 
 This software is free to use, share, and distribute.  
 For suggestions or issues, please open an issue on GitHub.
+
+## Support Us
+
+If you find this project helpful, consider supporting us via [Liberapay](https://liberapay.com/~1890015/donate).
+
 
 ---
 
