@@ -230,7 +230,7 @@ If you find this project helpful, consider supporting us via [Liberapay](https:/
 
 3. 압축 해제한 폴더에서 `Joyful-Freedom-Notes.exe` 파일을 실행합니다.
 
-4.새 노트 작성, 폴더 생성, 검색 키워드 설정 등을 시작하세요.
+4. 새 노트 작성, 폴더 생성, 검색 키워드 설정 등을 시작하세요.
 
 5. 데이터 백업 및 복원은 도구 메뉴의 "원클릭 백업", "원클릭 복원"을 통해 사용할 수 있습니다.
 
