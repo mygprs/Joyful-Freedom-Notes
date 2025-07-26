@@ -1,3 +1,10 @@
+**最新版本：** v1.01 更新：強化語言包相容性。  
+[立即下載 Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/blob/main/Joyful-Freedom-Notes.zip)
+
+**Latest Version:** v1.01 Update: Improved language pack compatibility.  
+[Download Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/blob/main/Joyful-Freedom-Notes.zip)
+
+
 # 如意自在筆記本 Joyful Freedom Notes
 
 **繁體中文 | English below**
