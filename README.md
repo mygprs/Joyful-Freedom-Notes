@@ -1,7 +1,7 @@
-**最新版本：** v1.01 更新：強化語言包相容性。  
+**最新版本：** v1.02 更新：強化系統效能。  
 [立即下載 Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/blob/main/Joyful-Freedom-Notes.zip)
 
-**Latest Version:** v1.01 Update: Improved language pack compatibility.  
+**Latest Version:** v1.02 Update: Enhanced system performance.  
 [Download Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/blob/main/Joyful-Freedom-Notes.zip)
 
 
