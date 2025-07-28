@@ -1,8 +1,8 @@
 **最新版本：** v1.02 更新：強化系統效能。  
-[立即下載 Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/blob/main/Joyful-Freedom-Notes.zip)
+[立即下載 Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/archive/refs/tags/v1.02.zip)
 
 **Latest Version:** v1.02 Update: Enhanced system performance.  
-[Download Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/blob/main/Joyful-Freedom-Notes.zip)
+[Download Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/archive/refs/tags/v1.02.zip)
 
 
 # 如意自在筆記本 Joyful Freedom Notes
