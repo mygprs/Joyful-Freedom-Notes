@@ -1,9 +1,14 @@
 **最新版本：** v1.0.8 更新：強化系統效能。
+
 [從微軟商店免費下載自動更新版本 Joyful Freedom Notes](https://apps.microsoft.com/detail/9P590V0PXZ8S?hl=zh-tw&gl=TW&ocid=pdpshare)
+
 [立即下載手動安裝版本 Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/releases/download/v1.0.8/Joyful-Freedom-Notes.zip)
 
+
 **Latest Version:** v1.0.8 Update: Enhanced system performance.
+
 [Download the auto-updating version for free from the Microsoft Store Joyful Freedom Notes](https://apps.microsoft.com/detail/9P590V0PXZ8S?hl=zh-tw&gl=TW&ocid=pdpshare)
+
 [Download the manual installation version now Joyful-Freedom-Notes.zip](https://github.com/mygprs/Joyful-Freedom-Notes/releases/download/v1.0.8/Joyful-Freedom-Notes.zip)
 
 
